@@ -10,6 +10,12 @@
 
 ### **News** :loudspeaker:: **I am open to the job market, feel free to drop me a message if you have something interesting!**
 
+
+
+### Thank you!
+
+
+
 # Contacts :mailbox:
 
 - **Email: Khamiesw-at-outlook-dot-com** 
