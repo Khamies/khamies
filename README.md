@@ -8,8 +8,8 @@
 
 
 
-### **News** :loudspeaker:: **I am open to the job market, feel free to drop me a message if you have something interesting!**
-
+<!-- ### **News** :loudspeaker:: **I am open to the job market, feel free to drop me a message if you have something interesting!**
+ -->
 
 
 ### Thank you!
