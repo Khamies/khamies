@@ -6,7 +6,7 @@
 
 #### No need to tell! feel free to explore my repos, and if you find something interesting, collaboration or have some notes that help me improve, please drop me a message, I would love to hear your opinion, and suggestions.
 
-#### By the way, if you feel lazy to scroll! I have a cool website!, you can find an organized portfolio to my work [here](https://[khamies.github.io](https://waleedkhamies.com/projects/).
+#### By the way, if you feel lazy to scroll! I have a cool website!, you can find an organized portfolio to my work here [here](https://www.waleedkhamies.com/projects/).
 
 
 
