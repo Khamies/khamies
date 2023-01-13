@@ -21,6 +21,6 @@
 # Contacts :mailbox:
 
 - **Email: Khamiesw-at-outlook-dot-com** 
-- **Linkedin:**  [**connect with me!](https://www.linkedin.com/in/khamiesw/)! 
+- **Linkedin:**  [**connect with me**](https://www.linkedin.com/in/khamiesw/)! 
 - **Twitter: @Khamiesw**
 
