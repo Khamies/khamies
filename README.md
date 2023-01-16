@@ -22,5 +22,6 @@
 
 - **Email: Khamiesw-at-outlook-dot-com** 
 - **Linkedin:**  [**connect with me**](https://www.linkedin.com/in/khamiesw/)! 
+- **Medium:** [Follow me](https://medium.com/@khamiesw) :)
 - **Twitter: @Khamiesw**
 
