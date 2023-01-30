@@ -9,7 +9,7 @@
 #### By the way, if you feel lazy to scroll! I have a cool website!, you can find an organized portfolio to my work 👉 [here](https://waleedkhamies.com/projects/).
 
 
-#### And finally, my blog is currently active, check my recent posts from 👉 [here](https://waleedkhamies.com/blog/).
+#### And finally, my blog is currently active, check my recent posts from 👉 [here](http://blog.waleedkhamies.com/).
 
 
 <!-- #### **News** :loudspeaker:: **I am open to the job market, feel free to drop me a message if you have something interesting!**
