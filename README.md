@@ -27,3 +27,6 @@
 - **Medium:** [**@khamiesw**](https://medium.com/@khamiesw)
 - **Twitter:** [**@Khamiesw**](https://twitter.com/khamiesw)
 
+
+<iframe width='160' height='400' src='https://leanpub.com/how-to-solve-algorithm-problems_book/embed' frameborder='0' allowtransparency='true'></iframe>
+  
