@@ -1,4 +1,4 @@
-# Hi  :wave:
+# Waleed Khamies - Applied ML Scientist
 
 #### I am **Waleed**,  an applied scientist. and ML grad. I am passionate about learning semantic representations from multimodal data. Also, I am interested in mapping these inferred meanings to autonomous actionable insights. 
 
