@@ -22,7 +22,7 @@
 
 # Contacts :mailbox:
 
-- **Email: waleed-at-waleedkhamies-dot-com** 
+- **Email: waleed-at-khamies-dot-ca** 
 - **Linkedin:**  [**@khamiesw**](https://www.linkedin.com/in/khamiesw/)
 - **Medium:** [**@khamiesw**](https://medium.com/@khamiesw)
 - **Twitter:** [**@Khamiesw**](https://twitter.com/khamiesw)
