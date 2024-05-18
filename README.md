@@ -1,6 +1,6 @@
 # Waleed Khamies - Applied ML Scientist
 
-#### I am **Waleed**,  an applied scientist. and ML grad. I am passionate about learning semantic representations from multimodal data. Also, I am interested in mapping these inferred meanings to autonomous actionable insights. 
+#### I am **Waleed**, an applied machine learning scientist at NTWIST, helping enterprises leverage machine learning to automate business processes. Concurrently, I am on a PhD track at the University of Alberta, where I explore the intersection of AI and neuroscience, focusing on how AI can uncover visuo-linguistic patterns in individuals with mental health disorders.. 
 
 #### Previously, I worked as a research engineer intern at [Mila](https://mila.quebec/) under the supervision of [Liam Paull](https://liampaull.ca/), where my research focused on developing deep learning models that are suitable to robotics applications in noisy scenarios. I received my master at [AMMI](https://aimsammi.org/) in Mathematical sciences/Machine learning, where I worked in interpretability of reinforcement learning under the supervision of [George konidaris](http://cs.brown.edu/people/gdk/), previously I received my bachelor degree at [UofK](https://www.uofk.edu/en) in Electrical and electronics engineering, where I worked under the supervision of [Benjamin Rosman](https://www.benjaminrosman.com/).
 
