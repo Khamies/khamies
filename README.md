@@ -11,7 +11,7 @@
 
 #### Also, If you are interested in learning more about Algorithms, Machine Learning, and Data Science, check my recent posts from 👉 [here](https://khamiesw.substack.com).
 
-#### And finally, If you are interested in getting exclusive content and cheatsheets related to Artificial Intelligence, Machine Learning, and Data Science, join my newsletter from 👉 [here](https://newsletter.waleedkhamies.com/).
+#### And finally, If you are interested in getting exclusive content and cheatsheets related to Artificial Intelligence, Machine Learning, and Data Science, join GradCorner newsletter from 👉 [here](https://https://gradcorner.ca/profile/).
 <!-- #### **News** :loudspeaker:: **I am open to the job market, feel free to drop me a message if you have something interesting!**
  -->
 
