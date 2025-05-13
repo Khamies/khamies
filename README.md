@@ -9,9 +9,9 @@
 #### By the way, if you feel too lazy to scroll! you can find an organized portfolio of my work 👉 [here](https://waleed.khamies.ca/projects/).
 
 
-#### Also, If you are interested in learning more about Algorithms, Machine Learning, and Data Science, check my recent posts from 👉 [here](https://khamiesw.substack.com).
+#### Also, If you are interested in learning more about Algorithms, Machine Learning, and Data Science, check my recent posts from 👉 [here](https://publication.gradcorner.ca/).
 
-#### And finally, If you are interested in getting exclusive content and cheatsheets related to Artificial Intelligence, Machine Learning, and Data Science, join GradCorner newsletter from 👉 [here](https://gradcorner.ca/profile/).
+#### And finally, If you are interested in getting exclusive content and cheatsheets related to Artificial Intelligence, Machine Learning, and Data Science, join GradCorner newsletter from 👉 [here](https://publication.gradcorner.ca/).
 <!-- #### **News** :loudspeaker:: **I am open to the job market, feel free to drop me a message if you have something interesting!**
  -->
 
