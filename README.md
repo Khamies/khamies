@@ -1,28 +1,26 @@
-# Waleed Khamies - Applied ML Scientist
+# Waleed Khamies – Applied Research Scientist
 
-#### I am Waleed, applied machine learning scientist at NTWIST and on the PhD track at the [University of Alberta](https://apps.ualberta.ca/directory/person/khamies), exploring the intersection of AI and healthcare.
+I am an **Applied Machine Learning Scientist at [NTWIST](https://ntwist.com)** and a researcher at the [University of Alberta](https://apps.ualberta.ca/directory/person/khamies), where I work at the intersection of artificial intelligence, optimization, and real-world systems. My current focus includes building intelligent schedulers and automation tools for the manufacturing industry using reinforcement learning, self-supervised learning, and constraint optimization.
 
-#### Previously, I worked as a research engineer intern at [Mila](https://mila.quebec/) under the supervision of [Liam Paull](https://liampaull.ca/), where my research focused on developing deep learning models that are suitable to robotics applications in noisy scenarios. I received my master at [AMMI](https://aimsammi.org/) in Mathematical sciences/Machine learning, where I worked in interpretability of reinforcement learning under the supervision of [George konidaris](http://cs.brown.edu/people/gdk/), previously I received my bachelor degree at [UofK](https://www.uofk.edu/en) in Electrical and electronics engineering, where I worked under the supervision of [Benjamin Rosman](https://www.benjaminrosman.com/).
+Previously, I worked as a **Research Engineer Intern at [Mila – Quebec AI Institute](https://mila.quebec/)** under the supervision of [Liam Paull](https://liampaull.ca/), contributing to research on deep learning for robotics in uncertain and noisy environments. I completed my Master’s in Mathematical Sciences with a specialization in Machine Learning at the [African Master’s in Machine Intelligence (AMMI)](https://aimsammi.org/), where I focused on interpretability in reinforcement learning under the supervision of [George Konidaris](http://cs.brown.edu/people/gdk/). I also hold a Bachelor's degree in Electrical and Electronics Engineering from the [University of Khartoum](https://www.uofk.edu/en), where I conducted research under the guidance of [Benjamin Rosman](https://www.benjaminrosman.com/).
 
-#### No need to tell! feel free to explore my repos, and if you find something interesting for collaboration, or have some notes that help me improve, please drop me a message, I would love to hear your opinion, and suggestions.
+---
 
-#### By the way, if you feel too lazy to scroll! you can find an organized portfolio of my work 👉 [here](https://waleed.khamies.ca/projects/).
+## 🔍 Explore My Work
 
+Feel free to explore my repositories. If you come across something interesting or would like to collaborate, I’d be happy to connect. Feedback, suggestions, and ideas are always welcome.
 
-#### Also, If you are interested in learning more about Algorithms, Machine Learning, and Data Science, check my recent posts from 👉 [here](https://publication.gradcorner.ca/).
+📂 A more organized portfolio of selected projects is available [here](https://waleed.khamies.ca/projects/).
 
-#### And finally, If you are interested in getting exclusive content and cheatsheets related to Artificial Intelligence, Machine Learning, and Data Science, join GradCorner newsletter from 👉 [here](https://publication.gradcorner.ca/).
-<!-- #### **News** :loudspeaker:: **I am open to the job market, feel free to drop me a message if you have something interesting!**
- -->
+📰 Interested in learning more about algorithms, machine learning, and data science? Check out my recent publications [here](https://publication.gradcorner.ca/).
 
+🧠 You can also subscribe to the **GradCorner** newsletter to receive exclusive content and cheat sheets in AI/ML/Data Science [here](https://publication.gradcorner.ca/).
 
-#### Thank you!
+---
 
+## 📬 Contact
 
-
-# Contacts :mailbox:
-
-- **Email: waleed-at-khamies-dot-ca** 
-- **Linkedin:**  [**@khamiesw**](https://www.linkedin.com/in/khamiesw/)
-- **Medium:** [**@khamiesw**](https://medium.com/@khamiesw)
-- **Twitter:** [**@Khamiesw**](https://twitter.com/khamiesw)
+- 📧 **Email**: waleed [at] khamies [dot] ca  
+- 🔗 **LinkedIn**: [@khamiesw](https://www.linkedin.com/in/khamiesw/)  
+- ✍️ **Medium**: [@khamiesw](https://medium.com/@khamiesw)  
+- 🐦 **Twitter**: [@Khamiesw](https://twitter.com/Khamiesw)  
