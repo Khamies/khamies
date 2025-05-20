@@ -1,6 +1,6 @@
 # Waleed Khamies – Applied Research Scientist
 
-I am an **Applied Research Scientist at [NTWIST](https://ntwist.com)** and on the **PhD track at the [University of Alberta](https://apps.ualberta.ca/directory/person/khamies)**, where I explore the intersection of artificial intelligence and healthcare. My research focuses on developing secure, efficient AI systems, with particular interest in **reinforcement learning**, **self-supervised learning**, and **optimization-based methods** for real-world automation and decision-making problems.
+I am an **Applied Research Scientist at [NTWIST](https://ntwist.com)** and a **Graduate Student at the [University of Alberta](https://apps.ualberta.ca/directory/person/khamies)**, where I explore the intersection of artificial intelligence and healthcare. My research focuses on developing secure, efficient AI systems, with particular interest in **reinforcement learning**, **self-supervised learning**, and **optimization-based methods** for real-world automation and decision-making problems.
 
 Previously, I worked as a **Research Engineer Intern at [Mila – Quebec AI Institute](https://mila.quebec/)** under the supervision of [Liam Paull](https://liampaull.ca/), where I contributed to deep learning research for robotics in noisy and partially observable environments.
 
