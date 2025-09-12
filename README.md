@@ -27,7 +27,6 @@ I hold an **MSc in Mathematical Sciences (Machine Learning)** from [AMMI – Afr
 - **GitHub** → [github.com/Khamies](https://github.com/Khamies)  
 - **Google Scholar** → [scholar profile](https://scholar.google.com/citations?user=YZgQGQ0AAAAJ&hl=en)  
 - **ORCID** → [0000-0002-7112-150X](https://orcid.org/0000-0002-7112-150X)  
-- **Twitter (X)** → [@Khamiesw](https://twitter.com/Khamiesw)  
 
 ---
 
