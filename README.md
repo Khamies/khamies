@@ -31,4 +31,4 @@ I hold an **MSc in Mathematical Sciences (Machine Learning)** from [AMMI – Afr
 
 ---
 
-✨ Always open to collaborations on **AI research, applied ML systems, and industrial automation**.  
+Feel free to drop me a message, always open to collaborations!
