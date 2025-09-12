@@ -30,4 +30,4 @@ I hold an MSc in Mathematical Sciences (Machine Learning) from [AMMI – African
 
 ---
 
-Feel free to reach out — I’m always open to collaborations on applied machine learning, reinforcement learning, and real-world AI systems.
+Feel free to reach out, Always open to collaborations!
