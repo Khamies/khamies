@@ -1,6 +1,6 @@
-# Waleed Khamies – Applied AI Scientist
+# Waleed Khamies – Applied Research Scientist
 
-I am an Applied AI Scientist at [NTWIST](https://ntwist.com), where I design and deploy AI-powered scheduling and automation systems for the manufacturing industry. My work focuses on reinforcement learning, self-/semi-supervised learning, and constraint optimization to improve throughput and decision-making in real-world operations.
+I am an Applied Research Scientist at [NTWIST](https://ntwist.com), where I design and deploy AI-powered scheduling and automation systems for the manufacturing industry. My work focuses on reinforcement learning, self-/semi-supervised learning, and constraint optimization to improve throughput and decision-making in real-world operations.
 
 Alongside my industry role, I am a graduate researcher at the [University of Alberta](https://www.ualberta.ca/), where I study reinforcement learning and decision-making systems. My aim is to bridge academic research with practical industrial applications.
 
