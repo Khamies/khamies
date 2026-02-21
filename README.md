@@ -1,12 +1,14 @@
 # Waleed Khamies – Applied Research Scientist
 
-I am an Applied Research Scientist at [NTWIST](https://ntwist.com), where I design and deploy AI-powered scheduling and automation systems for the manufacturing industry. My work focuses on reinforcement learning, self-/semi-supervised learning, and constraint optimization to improve throughput and decision-making in real-world operations.
+## About Me
 
-In parallel with my industry work, I am a graduate student (currently on academic leave) at the [University of Alberta](https://www.ualberta.ca/), where I study reinforcement learning and decision-making systems. I aim to bridge cutting-edge academic research with practical industrial applications.
+I am an Applied Research Scientist at [NTWIST](https://ntwist.com) and a graduate researcher at the [University of Alberta](https://www.ualberta.ca/), specializing in AI-driven decision systems for industrial applications.
 
-Previously, I was a Machine Learning Research Engineer at [Mila – Quebec AI Institute](https://mila.quebec/), working on robust deep learning for robotics with [Liam Paull](https://liampaull.ca/). I also contributed to research on reinforcement learning interpretability with [George Konidaris](http://cs.brown.edu/people/gdk/) and collaborated with [Benjamin Rosman](https://www.benjaminrosman.com/).  
+At NTWIST, I design and deploy machine learning and optimization solutions that automate and optimize operations in process and discrete manufacturing. My work focuses on reinforcement learning, self-supervised learning, and large-scale optimization to improve operational efficiency, throughput, and system performance.
 
-I hold an MSc in Mathematical Sciences (Machine Learning) from [AMMI – African Masters in Machine Intelligence](https://aimsammi.org/) and a BSc in Electrical Engineering from the [University of Khartoum](https://www.uofk.edu/en).
+My academic research centers on applying reinforcement learning, probabilistic modeling, and optimization to complex industrial decision-making problems, with an emphasis on scalable and reliable AI systems.
+
+I hold an MSc in Mathematical Sciences (Machine Learning specialization) from [AMMI – African Masters in Machine Intelligence](https://aimsammi.org/) and a BSc in Electrical and Electronics Engineering from the [University of Khartoum](https://www.uofk.edu/en). I have previously conducted deep learning research at [Mila – Quebec AI Institute](https://mila.quebec/) and worked at [Brown University’s Robotics Lab](https://cs.brown.edu/research/robotics/).
 
 ---
 
@@ -15,8 +17,8 @@ I hold an MSc in Mathematical Sciences (Machine Learning) from [AMMI – African
 - **Website & Portfolio** → [waleed.khamies.ca](https://waleed.khamies.ca)  
 - **Projects** → [waleed.khamies.ca/projects](https://waleed.khamies.ca/projects/)  
 - **Research** → [waleed.khamies.ca/research](https://waleed.khamies.ca/research/)  
-- **Books** → [waleed.khamies.ca/books](https://waleed.khamies.ca/books/)  
-- **Articles & Tutorials** → [GradCorner AI](https://publication.gradcorner.ca/)  
+- **Books** → [waleed.khamies.ca/books](https://waleed.khamies.ca)  
+<!--  - **Articles & Tutorials** → [GradCorner AI](https://publication.gradcorner.ca/) -->
 
 ---
 
@@ -28,5 +30,3 @@ I hold an MSc in Mathematical Sciences (Machine Learning) from [AMMI – African
 - **Google Scholar** → [scholar profile](https://scholar.google.com/citations?user=YZgQGQ0AAAAJ&hl=en)
 
 ---
-
-Feel free to reach out, Always open to collaborations!
