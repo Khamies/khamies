@@ -24,7 +24,6 @@ I hold an MSc in Mathematical Sciences (Machine Learning specialization) from [A
 
 ## Contact
 
-- **Email** → [waleed@khamies.ca](mailto:waleed@khamies.ca)  
 - **LinkedIn** → [linkedin.com/in/khamiesw](https://www.linkedin.com/in/khamiesw/)  
 - **GitHub** → [github.com/Khamies](https://github.com/Khamies)  
 - **Google Scholar** → [scholar profile](https://scholar.google.com/citations?user=YZgQGQ0AAAAJ&hl=en)
